@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+}
+p {
+    text-align: left;
+    margin-left: 40%;
+    margin-top: 5px;
+}
+span {
+    display: block;
+}
