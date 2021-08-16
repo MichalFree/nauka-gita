@@ -1,12 +1,11 @@
-body {
-        background: white }
-    section {
-        background: black;
-        color: white;
-        border-radius: 1em;
-        padding: 1em;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        margin-right: -50%;
-        transform: translate(-50%, -50%) }
+.container {
+    text-align: center;
+}
+p {
+    text-align: left;
+    margin-left: 40%;
+    margin-top: 5px;
+}
+span {
+    display: block;
+}
